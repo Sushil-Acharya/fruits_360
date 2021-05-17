@@ -11,3 +11,5 @@ Here is the description of our models.
 5. The file named _"Our-proposed-model-final.ipynb"_ is our porposed model. To run this, we must specify the location of the dataset. The name of the dataset used for this notebook is "Ours". Also, at the model checkpoint, we should provide the path to save the model weights and we have to give the same path to load the model. To see the predicted nutrition values, the CSV file "nutrition.csv" should be in the same folder with dataset.
 
 6. The file named _"Our-proposed-model-for-mixed.ipynb"_ is our porposed model on the mixed dataset. To run this, we must specify the location of the dataset. The name of the dataset used for this notebook is "Ours". Also, at the model checkpoint, we should provide the path to save the model weights and we have to give the same path to load the model. To see the predicted nutrition values, the CSV file "nutrition.csv" should be in the same folder with dataset.
+
+7. The file named _Fruit360-VGG16_Model.ipynb_ is the VGG16, transfer learning model.
